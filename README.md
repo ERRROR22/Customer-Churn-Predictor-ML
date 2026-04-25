@@ -17,6 +17,7 @@ will churn and explains **why** using SHAP explainability.
 - Telco Customer Churn Dataset (Kaggle)
 
 ## 📁 Project Structure
+
 churn-predictor/
 ├── app.py                  # Streamlit app
 ├── data/                   # Dataset
@@ -39,4 +40,5 @@ Customer Churn Predictor | Python, Scikit-learn, SHAP, Streamlit
 ML model to predict customer churn with SHAP explainability, deployed via Streamlit
 
 Project Done by:  Ritik Sharma
-Contact: 9086992265
+
+ Contact: 9086992265
