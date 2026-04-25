@@ -23,6 +23,8 @@ churn-predictor/
 ├── notebooks/              # EDA & model training
 ├── requirements.txt
 └── README.md
+
+
 ```
 
 ---
@@ -36,5 +38,5 @@ Customer Churn Predictor | Python, Scikit-learn, SHAP, Streamlit
 - Live demo: [your URL]# customer-churn-predictor
 ML model to predict customer churn with SHAP explainability, deployed via Streamlit
 
-
-Ritik Sharma
+Project Done by:  Ritik Sharma
+Contact: 9086992265
